@@ -1,0 +1,35 @@
+INFO:__main__:predictor script started at 2024-08-30 19:13:36.809094
+INFO:__main__:predictor script started at 2024-08-30 19:14:34.829058
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:predictor script started at 2024-08-30 19:15:21.550132
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:predictor script started at 2024-08-30 19:17:25.016421
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:predictor script started at 2024-08-30 19:17:51.384540
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:predictor script started at 2024-08-30 19:19:02.054537
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:predictor script started at 2024-08-30 19:55:08.982431
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:predictor script started at 2024-08-30 20:54:41.176285
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Connected to database
+INFO:__main__:predictor script started at 2024-08-30 20:56:16.952348
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Connected to database
+INFO:__main__:predictor script started at 2024-08-30 20:56:57.789234
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Connected to database
+INFO:__main__:Latest prediction was for timestamp: 2024-08-29 22:00:00
+INFO:__main__:Pulled 25 historical instances from database
+INFO:__main__:Predictions took 0:00:00.002985 to complete
+INFO:__main__:Predicted 25 instances
+INFO:__main__:script runtime:0:00:01.861500
+INFO:__main__:------------------------------------------------------------------------
+INFO:__main__:predictor script started at 2024-08-30 20:59:37.735303
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Connected to database
+INFO:__main__:Latest prediction was for timestamp: 2024-08-30 23:00:00
+INFO:__main__:No new instance since last prediction
+INFO:__main__:script runtime:0:00:00.166629
+INFO:__main__:------------------------------------------------------------------------

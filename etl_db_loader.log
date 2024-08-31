@@ -1,0 +1,80 @@
+
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Payload retrieved from database
+INFO:__main__:No new data to insert at 2024-08-25 15:15:15.902187
+INFO:__main__:script runtime:0:00:00.201058
+INFO:__main__:------------------------------------------------------------------------
+INFO:__main__:Etl loading started at 2024-08-25 20:31:14.956407
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Payload retrieved from database
+INFO:__main__:2 rows of financial data inserted.
+INFO:__main__:2 rows of technical data inserted.
+INFO:__main__:2 rows inserted.
+INFO:__main__:script runtime:0:00:00.186430
+INFO:__main__:------------------------------------------------------------------------
+INFO:__main__:Etl loading started at 2024-08-25 21:19:02.902961
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Payload retrieved from database
+INFO:__main__:1 rows of financial data inserted.
+INFO:__main__:1 rows of technical data inserted.
+INFO:__main__:1 rows inserted.
+INFO:__main__:script runtime:0:00:00.183399
+INFO:__main__:------------------------------------------------------------------------
+INFO:__main__:Etl loading started at 2024-08-26 09:06:03.322266
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Payload retrieved from database
+INFO:__main__:Last date_time on database is 2024-08-26 02:00:00
+INFO:__main__:Successfully retrieved USDCAD rates from 2024-08-26 03:00:00 to 2024-08-26 09:06:12.514941
+INFO:__main__:Data Transformation started at 2024-08-26 09:06:12.537152
+INFO:__main__:Data transformation completed at 2024-08-26 09:06:12.783708
+INFO:__main__:12 rows of financial data inserted.
+INFO:__main__:12 rows of technical data inserted.
+INFO:__main__:12 rows inserted.
+INFO:__main__:script runtime:0:00:09.501988
+INFO:__main__:------------------------------------------------------------------------
+INFO:__main__:Etl loading started at 2024-08-27 23:31:57.035382
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Payload retrieved from database
+INFO:__main__:Last date_time on database is 2024-08-26 14:00:00
+INFO:__main__:Successfully retrieved USDCAD rates from 2024-08-26 15:00:00 to 2024-08-27 23:32:29.660039
+INFO:__main__:Data Transformation started at 2024-08-27 23:32:29.660039
+INFO:__main__:Data transformation completed at 2024-08-27 23:32:29.766474
+INFO:__main__:38 rows of financial data inserted.
+INFO:__main__:38 rows of technical data inserted.
+INFO:__main__:38 rows of transformed date inserted.
+INFO:__main__:script runtime:0:00:32.782177
+INFO:__main__:------------------------------------------------------------------------
+INFO:__main__:Etl loading started at 2024-08-29 17:07:29.069896
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Payload retrieved from database
+INFO:__main__:Last date_time on database is 2024-08-28 04:00:00
+INFO:__main__:Successfully retrieved USDCAD rates from 2024-08-28 05:00:00 to 2024-08-29 17:07:41.548935
+INFO:__main__:Data Transformation started at 2024-08-29 17:07:41.550861
+INFO:__main__:Data transformation completed at 2024-08-29 17:07:41.640869
+INFO:__main__:42 rows of financial data inserted.
+INFO:__main__:42 rows of technical data inserted.
+INFO:__main__:42 rows of transformed date inserted.
+INFO:__main__:script runtime:0:00:12.665148
+INFO:__main__:------------------------------------------------------------------------
+INFO:__main__:Etl loading started at 2024-08-30 19:56:32.780100
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Payload retrieved from database
+INFO:__main__:Last date_time on database is 2024-08-29 22:00:00
+INFO:__main__:Successfully retrieved USDCAD rates from 2024-08-29 23:00:00 to 2024-08-30 19:56:59.100789
+INFO:__main__:Data Transformation started at 2024-08-30 19:56:59.101767
+INFO:__main__:Data transformation completed at 2024-08-30 19:56:59.182491
+INFO:__main__:25 rows of financial data inserted.
+INFO:__main__:25 rows of technical data inserted.
+INFO:__main__:25 rows of transformed date inserted.
+INFO:__main__:script runtime:0:00:26.444779
+INFO:__main__:------------------------------------------------------------------------
+INFO:__main__:Etl loading started at 2024-08-30 20:57:59.904767
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Payload retrieved from database
+INFO:__main__:Last date_time on database is 2024-08-30 23:00:00
+INFO:__main__:Successfully retrieved USDCAD rates from 2024-08-31 00:00:00 to 2024-08-30 20:58:00.158743
+INFO:__main__:Data Transformation started at 2024-08-30 20:58:00.159728
+INFO:__main__:Data transformation completed at 2024-08-30 20:58:00.247631
+INFO:__main__:No new data to insert at 2024-08-30 20:58:00.249733
+INFO:__main__:script runtime:0:00:00.345935
+INFO:__main__:------------------------------------------------------------------------
