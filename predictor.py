@@ -2,6 +2,7 @@ import psycopg2
 import os
 import logging
 import pickle
+import MetaTrader5 as mt5
 from dotenv import load_dotenv
 from datetime import datetime, timedelta
 import pandas as pd
@@ -38,7 +39,6 @@ except:
     logger.info('Database connection failed!')
 
 
-# Obtain 30 instances fin_data to calculate tech_data
 def db_querier(payload):
     cur.execute(payload)
     values = cur.fetchall()
@@ -108,7 +108,7 @@ if hist_data:
     except:
         logger.error('Unable to commit predictions to DB')
 else:
-    logger.info('No new instance since last prediction')
+    logger.info('No new instance from MT5 since last prediction')
 # Close database connection
 cur.close()
 conn.close()

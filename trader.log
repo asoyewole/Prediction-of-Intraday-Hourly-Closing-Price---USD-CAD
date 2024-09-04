@@ -1,0 +1,49 @@
+INFO:__main__:trader script started at 2024-09-04 03:48:00.897032
+INFO:__main__:Connected to MT5
+INFO:__main__:1.3385342146708283
+INFO:__main__:Order send failed, no response received.
+INFO:__main__:TradePosition(ticket=2777299460, time=1724403977, time_msc=1724403977944, time_update=1724403977, time_update_msc=1724403977944, type=0, magic=0, identifier=2777299460, reason=2, volume=0.01, price_open=1.35948, sl=0.0, tp=0.0, price_current=1.3558, swap=-0.09, profit=-2.71, symbol='USDCAD', comment='', external_id='')
+INFO:__main__:------------------------------------------------------------------------------
+INFO:__main__:trader script started at 2024-09-04 04:02:30.407390
+INFO:__main__:Connected to MT5
+INFO:__main__:1.337110398457683
+INFO:__main__:Order send failed, no response received.
+INFO:__main__:TradePosition(ticket=2777299460, time=1724403977, time_msc=1724403977944, time_update=1724403977, time_update_msc=1724403977944, type=0, magic=0, identifier=2777299460, reason=2, volume=0.01, price_open=1.35948, sl=0.0, tp=0.0, price_current=1.35596, swap=-0.09, profit=-2.6, symbol='USDCAD', comment='', external_id='')
+INFO:__main__:------------------------------------------------------------------------------
+INFO:__main__:trader script started at 2024-09-04 04:27:21.413595
+INFO:__main__:Connected to MT5
+INFO:__main__:1.3368788281166921
+INFO:__main__:Order send failed, no response received.
+INFO:__main__:TradePosition(ticket=2777299460, time=1724403977, time_msc=1724403977944, time_update=1724403977, time_update_msc=1724403977944, type=0, magic=0, identifier=2777299460, reason=2, volume=0.01, price_open=1.35948, sl=0.0, tp=0.0, price_current=1.35568, swap=-0.09, profit=-2.8, symbol='USDCAD', comment='', external_id='')
+INFO:__main__:------------------------------------------------------------------------------
+INFO:__main__:trader script started at 2024-09-04 04:28:50.400439
+INFO:__main__:Connected to MT5
+INFO:__main__:1.336796124423481
+INFO:__main__:1.35558
+INFO:__main__:Order send failed, no response received.
+INFO:__main__:TradePosition(ticket=2777299460, time=1724403977, time_msc=1724403977944, time_update=1724403977, time_update_msc=1724403977944, type=0, magic=0, identifier=2777299460, reason=2, volume=0.01, price_open=1.35948, sl=0.0, tp=0.0, price_current=1.35558, swap=-0.09, profit=-2.88, symbol='USDCAD', comment='', external_id='')
+INFO:__main__:------------------------------------------------------------------------------
+INFO:__main__:trader script started at 2024-09-04 04:29:25.340560
+INFO:__main__:Connected to MT5
+INFO:__main__:1.3368374762700865
+INFO:__main__:1.3556300000000001
+INFO:__main__:Order send failed, no response received.
+INFO:__main__:99999.57
+INFO:__main__:TradePosition(ticket=2777299460, time=1724403977, time_msc=1724403977944, time_update=1724403977, time_update_msc=1724403977944, type=0, magic=0, identifier=2777299460, reason=2, volume=0.01, price_open=1.35948, sl=0.0, tp=0.0, price_current=1.3556300000000001, swap=-0.09, profit=-2.84, symbol='USDCAD', comment='', external_id='')
+INFO:__main__:------------------------------------------------------------------------------
+INFO:__main__:trader script started at 2024-09-04 04:32:53.883317
+INFO:__main__:Connected to MT5
+INFO:__main__:1.3366803392529856
+INFO:__main__:1.35545
+INFO:__main__:Order send failed, no response received.
+INFO:__main__:99999.57
+INFO:__main__:TradePosition(ticket=2777299460, time=1724403977, time_msc=1724403977944, time_update=1724403977, time_update_msc=1724403977944, type=0, magic=0, identifier=2777299460, reason=2, volume=0.01, price_open=1.35948, sl=0.0, tp=0.0, price_current=1.35545, swap=-0.09, profit=-2.9699999999999998, symbol='USDCAD', comment='', external_id='')
+INFO:__main__:------------------------------------------------------------------------------
+INFO:__main__:trader script started at 2024-09-04 11:15:13.456464
+INFO:__main__:failed to connect, error code = (-2, 'Invalid 1st unnamed argument')
+INFO:__main__:1.3344631413268244
+INFO:__main__:1.35211
+INFO:__main__:Order send failed, no response received.
+INFO:__main__:99999.57
+INFO:__main__:TradePosition(ticket=2777299460, time=1724403977, time_msc=1724403977944, time_update=1724403977, time_update_msc=1724403977944, type=0, magic=0, identifier=2777299460, reason=2, volume=0.01, price_open=1.35948, sl=0.0, tp=0.0, price_current=1.35211, swap=-0.09, profit=-5.45, symbol='USDCAD', comment='', external_id='')
+INFO:__main__:------------------------------------------------------------------------------

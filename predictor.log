@@ -33,3 +33,89 @@ INFO:__main__:Latest prediction was for timestamp: 2024-08-30 23:00:00
 INFO:__main__:No new instance since last prediction
 INFO:__main__:script runtime:0:00:00.166629
 INFO:__main__:------------------------------------------------------------------------
+INFO:__main__:predictor script started at 2024-09-02 09:09:13.237473
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Connected to database
+INFO:__main__:Latest prediction was for timestamp: 2024-08-30 23:00:00
+INFO:__main__:Pulled 15 historical instances from database
+INFO:__main__:Predictions took 0:00:00.001960 to complete
+INFO:__main__:Predicted 15 instances
+INFO:__main__:script runtime:0:00:05.243497
+INFO:__main__:------------------------------------------------------------------------
+INFO:__main__:predictor script started at 2024-09-02 10:02:27.092509
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Connected to database
+INFO:__main__:Latest prediction was for timestamp: 2024-09-02 14:00:00
+INFO:__main__:Pulled 1 historical instances from database
+INFO:__main__:Predictions took 0:00:00.001953 to complete
+INFO:__main__:Predicted 1 instances
+INFO:__main__:script runtime:0:00:01.273939
+INFO:__main__:------------------------------------------------------------------------
+INFO:__main__:predictor script started at 2024-09-02 14:08:53.427633
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Connected to database
+INFO:__main__:Latest prediction was for timestamp: 2024-09-02 15:00:00
+INFO:__main__:Pulled 4 historical instances from database
+INFO:__main__:Predictions took 0:00:00.001505 to complete
+INFO:__main__:Predicted 4 instances
+INFO:__main__:script runtime:0:00:01.726824
+INFO:__main__:------------------------------------------------------------------------
+INFO:__main__:predictor script started at 2024-09-02 23:05:58.223044
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Connected to database
+INFO:__main__:Latest prediction was for timestamp: 2024-09-02 19:00:00
+INFO:__main__:Pulled 9 historical instances from database
+INFO:__main__:Predictions took 0:00:00.000975 to complete
+INFO:__main__:Predicted 9 instances
+INFO:__main__:script runtime:0:00:07.282079
+INFO:__main__:------------------------------------------------------------------------
+INFO:__main__:predictor script started at 2024-09-03 10:14:45.572656
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Connected to database
+INFO:__main__:Latest prediction was for timestamp: 2024-09-03 04:00:00
+INFO:__main__:Pulled 11 historical instances from database
+INFO:__main__:Predictions took 0:00:00.003903 to complete
+INFO:__main__:Predicted 11 instances
+INFO:__main__:script runtime:0:00:07.363798
+INFO:__main__:------------------------------------------------------------------------
+INFO:__main__:predictor script started at 2024-09-03 15:33:50.587727
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Connected to database
+INFO:__main__:Latest prediction was for timestamp: 2024-09-03 15:00:00
+INFO:__main__:Pulled 5 historical instances from database
+INFO:__main__:Predictions took 0:00:00.001955 to complete
+INFO:__main__:Predicted 5 instances
+INFO:__main__:script runtime:0:00:07.859445
+INFO:__main__:------------------------------------------------------------------------
+INFO:__main__:predictor script started at 2024-09-03 17:03:15.470214
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Connected to database
+INFO:__main__:Latest prediction was for timestamp: 2024-09-03 20:00:00
+INFO:__main__:Pulled 2 historical instances from database
+INFO:__main__:Predictions took 0:00:00.002927 to complete
+INFO:__main__:Predicted 2 instances
+INFO:__main__:script runtime:0:00:01.467843
+INFO:__main__:------------------------------------------------------------------------
+INFO:__main__:predictor script started at 2024-09-04 04:02:20.816530
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Connected to database
+INFO:__main__:Latest prediction was for timestamp: 2024-09-03 22:00:00
+INFO:__main__:Pulled 11 historical instances from database
+INFO:__main__:Predictions took 0:00:00.002051 to complete
+INFO:__main__:Predicted 11 instances
+INFO:__main__:script runtime:0:00:05.456641
+INFO:__main__:------------------------------------------------------------------------
+INFO:__main__:predictor script started at 2024-09-04 04:30:32.481503
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Connected to database
+INFO:__main__:Latest prediction was for timestamp: 2024-09-04 09:00:00
+INFO:__main__:No new instance from MT5 since last prediction
+INFO:__main__:script runtime:0:00:00.085097
+INFO:__main__:------------------------------------------------------------------------
+INFO:__main__:predictor script started at 2024-09-04 04:32:53.146361
+INFO:__main__:connected to database - fx_tradingDB
+INFO:__main__:Connected to database
+INFO:__main__:Latest prediction was for timestamp: 2024-09-04 09:00:00
+INFO:__main__:No new instance from MT5 since last prediction
+INFO:__main__:script runtime:0:00:00.183730
+INFO:__main__:------------------------------------------------------------------------
